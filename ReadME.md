@@ -15,7 +15,7 @@ You can find all my published Docker images here:
 docs/           Full Docker notes, cheat sheets, and explanations
 examples/       Working Dockerfiles and Compose examples
 assets/         Architecture diagrams and visuals
-.gitignore      Standard Git ignore rules
+gitignore.md      Standard Git ignore rules
 
 
 📚 Documentation
