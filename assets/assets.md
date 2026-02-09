@@ -258,15 +258,8 @@ docker push mydockerhub/myapp:latest
 
 ---
 
-# ⭐ Suggestions for Using These Assets
 
-- Add diagrams to your README for visual clarity.
-- Use templates to standardize Dockerfiles across projects.
-- Keep `.dockerignore` updated to reduce build context.
-- Use healthchecks and resource limits for production-grade setups.
-- Store all diagrams in `/assets/diagrams/` for clean repo organization.
 
----
 
 
 
