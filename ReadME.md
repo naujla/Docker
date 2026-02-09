@@ -3,7 +3,7 @@ This repository is perfect for:
 - DevOps / SRE / Cloud engineers
 - Students learning Docker
 - Anyone preparing for interviews
-- Recruiters reviewing your portfolio
+- Recruiters portfolio
 
 ## 🔗 Docker Hub Profile
 
