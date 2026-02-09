@@ -5,6 +5,12 @@ This repository is perfect for:
 - Anyone preparing for interviews
 - Recruiters reviewing your portfolio
 
+## 🔗 Docker Hub Profile
+
+You can find all my published Docker images here:
+
+**Docker Hub:** https://hub.docker.com/repositories/naujla
+
 🚀 What’s Inside
 docs/           Full Docker notes, cheat sheets, and explanations
 examples/       Working Dockerfiles and Compose examples
