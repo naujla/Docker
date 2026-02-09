@@ -2,8 +2,6 @@
 
 ---
 
-# ✅ **`docker-assets.md` (Copy & Paste)**
-
 ```markdown
 # Docker Assets & Reusable Templates
 
