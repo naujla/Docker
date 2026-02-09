@@ -22,12 +22,15 @@ assets/         Architecture diagrams and visuals
 🔹 Docker Notes
 docs/DOCKER-NOTES.md
 Complete learning notes covering images, containers, volumes, networks, logs, environment variables, and more.
+
 🔹 Docker Compose (Single Container)
 docs/DOCKER-COMPOSE-SINGLE.md
 A full production‑style compose file with health checks, resource limits, volumes, networks, and logging.
+
 🔹 Docker Compose (Multi‑Container)
 docs/DOCKER-COMPOSE-MULTI.md
 Frontend + Backend + Database example with health checks and networking.
+
 🔹 Commands Cheat Sheet
 docs/COMMANDS-CHEATSHEET.md
 All essential Docker commands in one place.
